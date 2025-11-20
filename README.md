@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anish8800
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning in FY AI/ML
+- 🌱 I’m currently learning in SY AI/ML
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me 
 - 😄 Pronouns: ...
